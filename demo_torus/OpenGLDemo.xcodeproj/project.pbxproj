@@ -48,21 +48,21 @@
 		645CC25824BB4ACD002081D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		645CC26524BB4AE4002081D9 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
 		645CC26724BB4AEF002081D9 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
-		645CC26A24BB4B26002081D9 /* GLBatchBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLBatchBase.h; sourceTree = "<group>"; };
-		645CC26B24BB4B26002081D9 /* math3d.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = math3d.h; sourceTree = "<group>"; };
-		645CC26C24BB4B26002081D9 /* GLTriangleBatch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLTriangleBatch.h; sourceTree = "<group>"; };
-		645CC26D24BB4B26002081D9 /* GLBatch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLBatch.h; sourceTree = "<group>"; };
-		645CC26E24BB4B26002081D9 /* GLMatrixStack.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLMatrixStack.h; sourceTree = "<group>"; };
-		645CC26F24BB4B26002081D9 /* GLFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLFrame.h; sourceTree = "<group>"; };
-		645CC27024BB4B26002081D9 /* GLFrustum.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLFrustum.h; sourceTree = "<group>"; };
-		645CC27124BB4B26002081D9 /* GLGeometryTransform.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLGeometryTransform.h; sourceTree = "<group>"; };
-		645CC27224BB4B26002081D9 /* GLShaderManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLShaderManager.h; sourceTree = "<group>"; };
-		645CC27324BB4B26002081D9 /* StopWatch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StopWatch.h; sourceTree = "<group>"; };
-		645CC27524BB4B26002081D9 /* glxew.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = glxew.h; sourceTree = "<group>"; };
-		645CC27624BB4B26002081D9 /* wglew.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wglew.h; sourceTree = "<group>"; };
-		645CC27724BB4B26002081D9 /* glew.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = glew.h; sourceTree = "<group>"; };
-		645CC27824BB4B26002081D9 /* GLTools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLTools.h; sourceTree = "<group>"; };
 		645CC27D24BB4C4D002081D9 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		64B826BC24F7E48F00109E95 /* GLBatchBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLBatchBase.h; sourceTree = "<group>"; };
+		64B826BD24F7E48F00109E95 /* math3d.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = math3d.h; sourceTree = "<group>"; };
+		64B826BE24F7E48F00109E95 /* GLTriangleBatch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLTriangleBatch.h; sourceTree = "<group>"; };
+		64B826BF24F7E48F00109E95 /* GLBatch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLBatch.h; sourceTree = "<group>"; };
+		64B826C024F7E48F00109E95 /* GLMatrixStack.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLMatrixStack.h; sourceTree = "<group>"; };
+		64B826C124F7E48F00109E95 /* GLFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLFrame.h; sourceTree = "<group>"; };
+		64B826C224F7E48F00109E95 /* GLFrustum.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLFrustum.h; sourceTree = "<group>"; };
+		64B826C324F7E48F00109E95 /* GLGeometryTransform.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLGeometryTransform.h; sourceTree = "<group>"; };
+		64B826C424F7E48F00109E95 /* GLShaderManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLShaderManager.h; sourceTree = "<group>"; };
+		64B826C524F7E48F00109E95 /* StopWatch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StopWatch.h; sourceTree = "<group>"; };
+		64B826C724F7E48F00109E95 /* glxew.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = glxew.h; sourceTree = "<group>"; };
+		64B826C824F7E48F00109E95 /* wglew.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wglew.h; sourceTree = "<group>"; };
+		64B826C924F7E48F00109E95 /* glew.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = glew.h; sourceTree = "<group>"; };
+		64B826CA24F7E48F00109E95 /* GLTools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLTools.h; sourceTree = "<group>"; };
 		64E50C1524BB4EA700E5E1B8 /* libGLTools.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libGLTools.a; path = OpenGLDemo/libGLTools.a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -97,7 +97,7 @@
 		645CC22824BB4ACB002081D9 = {
 			isa = PBXGroup;
 			children = (
-				645CC26924BB4B26002081D9 /* include */,
+				64B826BB24F7E48F00109E95 /* include */,
 				645CC23324BB4ACB002081D9 /* OpenGLDemo */,
 				645CC24A24BB4ACD002081D9 /* OpenGLDemoTests */,
 				645CC25524BB4ACD002081D9 /* OpenGLDemoUITests */,
@@ -156,32 +156,32 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		645CC26924BB4B26002081D9 /* include */ = {
+		64B826BB24F7E48F00109E95 /* include */ = {
 			isa = PBXGroup;
 			children = (
-				645CC26A24BB4B26002081D9 /* GLBatchBase.h */,
-				645CC26B24BB4B26002081D9 /* math3d.h */,
-				645CC26C24BB4B26002081D9 /* GLTriangleBatch.h */,
-				645CC26D24BB4B26002081D9 /* GLBatch.h */,
-				645CC26E24BB4B26002081D9 /* GLMatrixStack.h */,
-				645CC26F24BB4B26002081D9 /* GLFrame.h */,
-				645CC27024BB4B26002081D9 /* GLFrustum.h */,
-				645CC27124BB4B26002081D9 /* GLGeometryTransform.h */,
-				645CC27224BB4B26002081D9 /* GLShaderManager.h */,
-				645CC27324BB4B26002081D9 /* StopWatch.h */,
-				645CC27424BB4B26002081D9 /* GL */,
-				645CC27824BB4B26002081D9 /* GLTools.h */,
+				64B826BC24F7E48F00109E95 /* GLBatchBase.h */,
+				64B826BD24F7E48F00109E95 /* math3d.h */,
+				64B826BE24F7E48F00109E95 /* GLTriangleBatch.h */,
+				64B826BF24F7E48F00109E95 /* GLBatch.h */,
+				64B826C024F7E48F00109E95 /* GLMatrixStack.h */,
+				64B826C124F7E48F00109E95 /* GLFrame.h */,
+				64B826C224F7E48F00109E95 /* GLFrustum.h */,
+				64B826C324F7E48F00109E95 /* GLGeometryTransform.h */,
+				64B826C424F7E48F00109E95 /* GLShaderManager.h */,
+				64B826C524F7E48F00109E95 /* StopWatch.h */,
+				64B826C624F7E48F00109E95 /* GL */,
+				64B826CA24F7E48F00109E95 /* GLTools.h */,
 			);
 			name = include;
-			path = ../../../Downloads/OpenGlShare/include;
+			path = OpenGLDemo/include;
 			sourceTree = "<group>";
 		};
-		645CC27424BB4B26002081D9 /* GL */ = {
+		64B826C624F7E48F00109E95 /* GL */ = {
 			isa = PBXGroup;
 			children = (
-				645CC27524BB4B26002081D9 /* glxew.h */,
-				645CC27624BB4B26002081D9 /* wglew.h */,
-				645CC27724BB4B26002081D9 /* glew.h */,
+				64B826C724F7E48F00109E95 /* glxew.h */,
+				64B826C824F7E48F00109E95 /* wglew.h */,
+				64B826C924F7E48F00109E95 /* glew.h */,
 			);
 			path = GL;
 			sourceTree = "<group>";
